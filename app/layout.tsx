@@ -17,7 +17,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Maria Shop — La Beauté à l\'Africaine',
+  title: 'Maria Shop La Beauté à l\'Africaine',
   description:
     'Maria Shop, votre boutique de beauté à l\'africaine : perruques, accessoires, cosmétiques et collections aux couleurs du bogolan.',
   generator: 'v0.app',

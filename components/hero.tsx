@@ -24,7 +24,7 @@ export function Hero() {
                     </h1>
 
                     <p className="mt-6 max-w-md text-pretty text-base leading-relaxed text-muted-foreground sm:text-lg">
-                        Vêtements, sacs, accessoires et cosmétiques inspirés du bogolan.
+                        Vêtements, sacs, accessoires inspirés du bogolan.
                         Maria Shop célèbre l&apos;élégance africaine, une pièce d&apos;exception à la fois.
                     </p>
 
@@ -36,12 +36,13 @@ export function Hero() {
                             Explorer la boutique
                             <ArrowRight className="size-4 transition-transform group-hover:translate-x-1" />
                         </a>
+                        {/* Image 
                         <a
                             href="/sacs"
                             className="inline-flex items-center gap-2 rounded-full border border-border bg-card px-7 py-3.5 text-sm font-semibold text-foreground transition-colors hover:bg-secondary"
                         >
                             Voir les sacs
-                        </a>
+                        </a>*/}
                     </div>
 
                     <div className="mt-10 flex flex-wrap items-center gap-6">
@@ -56,12 +57,12 @@ export function Hero() {
                         <div className="h-10 w-px bg-border" />
                         <div>
                             <p className="text-2xl font-bold">150+</p>
-                            <p className="text-xs text-muted-foreground">références disponibles</p>
+                            <p className="text-xs text-muted-foreground">Références disponibles</p>
                         </div>
                         <div className="h-10 w-px bg-border" />
                         <div>
-                            <p className="text-2xl font-bold">48h</p>
-                            <p className="text-xs text-muted-foreground">livraison express</p>
+                            <p className="text-2xl font-bold">- 24h</p>
+                            <p className="text-xs text-muted-foreground">Livraison à Bamako</p>
                         </div>
                     </div>
                 </div>
@@ -72,7 +73,7 @@ export function Hero() {
                         <div className="absolute -right-4 -top-4 -z-10 hidden size-full rounded-[2rem] border-2 border-accent/40 sm:block" />
                         <div className="relative aspect-[4/5] overflow-hidden rounded-[2rem] shadow-2xl">
                             <Image
-                                src="/images/hero-model.png"
+                                src="/images/02.jpeg"
                                 alt="Femme africaine élégante mettant en valeur une perruque Maria Shop"
                                 fill
                                 priority
@@ -87,7 +88,7 @@ export function Hero() {
                                 Nouveauté
                             </p>
                             <p className="mt-1 font-serif text-lg font-semibold">Collection Bogolan</p>
-                            <p className="text-sm text-accent">À partir de 29€</p>
+                            <p className="text-sm text-accent">À partir de 20.000F</p>
                         </div>
 
                         {/* decorative badge */}

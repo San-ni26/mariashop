@@ -235,3 +235,29 @@
 .animate-spin-slow {
   animation: spin-slow 22s linear infinite;
 }
+
+/* Theme-specific logo visibility */
+.logo-theme-light {
+  display: block !important;
+}
+.logo-theme-dark {
+  display: none !important;
+}
+
+/* If parent has .dark class */
+.dark .logo-theme-light {
+  display: none !important;
+}
+.dark .logo-theme-dark {
+  display: block !important;
+}
+
+/* If system prefers dark mode and not overridden by .light class on root */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) .logo-theme-light {
+    display: none !important;
+  }
+  :root:not(.light) .logo-theme-dark {
+    display: block !important;
+  }
+}

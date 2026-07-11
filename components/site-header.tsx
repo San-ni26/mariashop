@@ -50,12 +50,20 @@ export function SiteHeader() {
             <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8">
                 <a href="/" className="relative z-10 flex items-center" aria-label="Maria Shop, accueil">
                     <Image
-                        src="/images/maria-shop-logo.png"
+                        src="/images/LOGO-01.png"
                         alt="Maria Shop"
                         width={200}
                         height={56}
                         priority
-                        className="h-9 w-auto sm:h-11"
+                        className="h-9 w-auto sm:h-11 logo-theme-light"
+                    />
+                    <Image
+                        src="/images/LOGO-02.png"
+                        alt="Maria Shop"
+                        width={200}
+                        height={56}
+                        priority
+                        className="h-9 w-auto sm:h-11 logo-theme-dark"
                     />
                 </a>
 

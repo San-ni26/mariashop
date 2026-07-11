@@ -3,9 +3,10 @@ import { Leaf, Truck, ShieldCheck, HeartHandshake } from "lucide-react"
 import { Reveal } from "@/components/reveal"
 
 const PERKS = [
+    /* floating card 
     { icon: Leaf, title: "Naturel", desc: "Ingrédients & matières authentiques" },
     { icon: Truck, title: "Livraison 48h", desc: "Partout, expédition rapide" },
-    { icon: ShieldCheck, title: "Paiement sûr", desc: "Transactions 100% sécurisées" },
+    { icon: ShieldCheck, title: "Paiement sûr", desc: "Transactions 100% sécurisées" },*/
     { icon: HeartHandshake, title: "Fait avec amour", desc: "Sélection artisanale soignée" },
 ]
 
@@ -16,7 +17,7 @@ export function Story() {
                 <Reveal className="relative">
                     <div className="relative aspect-[5/4] overflow-hidden rounded-3xl">
                         <Image
-                            src="/images/collection-accessories.png"
+                            src="/images/Maria-photo.png"
                             alt="L'univers Maria Shop : beauté et artisanat africain"
                             fill
                             sizes="(max-width: 1024px) 100vw, 50vw"
@@ -24,8 +25,8 @@ export function Story() {
                         />
                     </div>
                     <div className="absolute -bottom-6 -right-4 rounded-2xl bg-accent px-6 py-5 text-accent-foreground shadow-xl sm:-right-6">
-                        <p className="font-serif text-3xl font-bold">100%</p>
-                        <p className="text-xs font-semibold uppercase tracking-wide">Inspiration africaine</p>
+                        <p className="font-serif text-3xl font-bold">Mariam Dembélé</p>
+                        <p className="text-xs font-semibold uppercase tracking-wide">Fondatrice Maria shop</p>
                     </div>
                 </Reveal>
 

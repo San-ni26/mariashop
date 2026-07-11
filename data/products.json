@@ -1,0 +1,288 @@
+[
+  {
+    "id": "chale-bogolan",
+    "name": "Châle Bogolan",
+    "category": "Accessoires",
+    "price": 22000,
+    "rating": 5,
+    "image": "/images/collection-accessories.png",
+    "tag": "Unisexe",
+    "filter": "accessoires",
+    "gender": "unisexe",
+    "description": "Grand châle en coton tissé à la main aux motifs bogolan traditionnels. Polyvalent et élégant, il se porte en écharpe, en cape ou en couverture pour homme comme pour femme.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Dimensions : 180 × 80 cm",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "kimono-bogolan",
+    "name": "Kimono Bogolan",
+    "category": "Accessoires",
+    "price": 35000,
+    "rating": 5,
+    "image": "/images/collection-accessories.png",
+    "tag": "Unisexe",
+    "filter": "accessoires",
+    "gender": "unisexe",
+    "description": "Kimono fluide en lin et coton imprimé bogolan. Léger, confortable et intemporel, il s'adapte aussi bien aux tenues masculines que féminines pour toute occasion.",
+    "features": [
+      "Mélange lin et coton premium",
+      "Imprimés bogolan exclusifs",
+      "Coupe ample avec ceinture amovible",
+      "Taille unique"
+    ]
+  },
+  {
+    "id": "capuche-bogolan",
+    "name": "Capuche Bogolan",
+    "category": "Accessoires",
+    "price": 18000,
+    "rating": 4,
+    "image": "/images/product-clothing.png",
+    "tag": "Unisexe",
+    "filter": "accessoires",
+    "gender": "unisexe",
+    "description": "Capuche ample en coton bogolan, alliant le confort du streetwear urbain à l'authenticité des tissus africains. Pour lui comme pour elle.",
+    "features": [
+      "Coton bogolan authentique",
+      "Coupe oversize tendance",
+      "Doublure intérieure douce",
+      "Style urbain africain"
+    ]
+  },
+  {
+    "id": "grand-boubou",
+    "name": "Grand Boubou",
+    "category": "Accessoires",
+    "price": 45000,
+    "oldPrice": 55000,
+    "rating": 5,
+    "image": "/images/collection-accessories.png",
+    "tag": "Prestige",
+    "filter": "accessoires",
+    "gender": "unisexe",
+    "description": "Grand boubou traditionnel en bazin richement brodé à la main. Symbole de prestige et de cérémonie, il s'impose en toute occasion formelle ou festive pour homme et femme.",
+    "features": [
+      "Bazin de qualité supérieure",
+      "Broderies faites main à l'aiguille",
+      "Coupe ample et majestueuse",
+      "Idéal pour les cérémonies"
+    ]
+  },
+  {
+    "id": "kimono-joliya",
+    "name": "Kimono JOLIYA",
+    "category": "Accessoires",
+    "price": 32000,
+    "rating": 5,
+    "image": "/images/product-clothing.png",
+    "tag": "Femme",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "Le Kimono JOLIYA est une création féminine exclusive aux imprimés bogolan raffinés. Sa coupe fluide et sa longueur midi mettent en valeur la silhouette féminine avec élégance.",
+    "features": [
+      "Tissu satiné ultra-doux",
+      "Imprimés JOLIYA exclusifs Maria Shop",
+      "Ceinture en bogolan assortie",
+      "Coupe féminine élégante"
+    ]
+  },
+  {
+    "id": "haut-sanouya",
+    "name": "Haut Sanouya",
+    "category": "Accessoires",
+    "price": 15000,
+    "rating": 5,
+    "image": "/images/product-clothing.png",
+    "tag": "Femme",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "Le Haut Sanouya est une blouse féminine courte aux détails bogolan en poitrine et aux manches évasées. Une touche de modernité africaine pour le quotidien.",
+    "features": [
+      "Coton léger et respirant",
+      "Détails brodés bogolan en col",
+      "Manches évasées tendance",
+      "Style moderne et élégant"
+    ]
+  },
+  {
+    "id": "robe-bogolan",
+    "name": "Robe Bogolan",
+    "category": "Accessoires",
+    "price": 28000,
+    "oldPrice": 34000,
+    "rating": 5,
+    "image": "/images/product-clothing.png",
+    "tag": "Femme",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "Robe mi-longue cintrée en wax hollandais aux imprimés bogolan. Élégante pour les sorties en ville, les cérémonies ou les soirées africaines.",
+    "features": [
+      "Wax hollandais haut de gamme",
+      "Coupe cintrée valorisant la silhouette",
+      "Fermeture invisible dans le dos",
+      "Finitions soignées"
+    ]
+  },
+  {
+    "id": "turban-bogolan-eclat",
+    "name": "Turban Bogolan Éclat",
+    "category": "Accessoires",
+    "price": 18000,
+    "rating": 5,
+    "image": "/images/product-turban.png",
+    "tag": "Femme",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "Un turban moderne orné de motifs traditionnels Bogolan faits main. Facile à enfiler, il apporte une touche royale et culturelle à toutes vos tenues quotidiennes.",
+    "features": [
+      "Coton authentique tissé main",
+      "Motifs bogolan traditionnels",
+      "Élastique ajustable à l'arrière",
+      "Facile à enfiler"
+    ]
+  },
+  {
+    "id": "parure-doree-sahel",
+    "name": "Parure Dorée Sahel",
+    "category": "Accessoires",
+    "price": 28000,
+    "rating": 4,
+    "image": "/images/product-jewelry.png",
+    "tag": "Femme",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "Ensemble de bijoux dorés finement ciselés inspirés de l'orfèvrerie sahélienne. Composé d'un collier plastron et de boucles d'oreilles assorties.",
+    "features": [
+      "Finition plaqué or 18 carats",
+      "Détails martelés à la main",
+      "Hypoallergénique et sans nickel",
+      "Livré avec son écrin"
+    ]
+  },
+  {
+    "id": "tunique-bogolan-homme",
+    "name": "Tunique Bogolan Homme",
+    "category": "Accessoires",
+    "price": 26000,
+    "rating": 5,
+    "image": "/images/hero-model.png",
+    "tag": "Homme",
+    "filter": "accessoires",
+    "gender": "homme",
+    "description": "Tunique cintrée pour homme ornée de motifs bogolan verticaux sur la poitrine. Allie fierté culturelle et élégance moderne.",
+    "features": [
+      "Coton premium structuré",
+      "Bandes bogolan cousues main",
+      "Col officier moderne",
+      "Idéal pour sorties ou cérémonies"
+    ]
+  },
+  {
+    "id": "sac-tisse-bogolan",
+    "name": "Sac Tissé Bogolan",
+    "category": "Sacs",
+    "price": 37000,
+    "rating": 5,
+    "image": "/images/product-bag.png",
+    "tag": "Best-seller",
+    "filter": "sacs",
+    "description": "Sac à main structuré en cuir vegan et véritable tissu bogolan fait main. Un accessoire unique alliant modernité urbaine et tradition africaine.",
+    "features": [
+      "Cuir vegan de haute qualité",
+      "Empiècements en bogolan authentique",
+      "Bandoulière amovible incluse",
+      "Poches intérieures zippées"
+    ]
+  },
+  {
+    "id": "pochette-bogolan-chic",
+    "name": "Pochette Bogolan Chic",
+    "category": "Sacs",
+    "price": 15000,
+    "rating": 5,
+    "image": "/images/product-bag.png",
+    "tag": "Nouveau",
+    "filter": "sacs",
+    "description": "Pochette à main élégante pour vos soirées, mariages ou sorties. Finition en lin avec rabat en authentique bogolan noir et blanc.",
+    "features": [
+      "Format compact pratique",
+      "Fermoir aimanté sécurisé",
+      "Rabat en bogolan fait main",
+      "Intérieur doublé satin"
+    ]
+  },
+  {
+    "id": "sac-dos-voyage",
+    "name": "Sac à Dos Voyage Bogolan",
+    "category": "Sacs",
+    "price": 42000,
+    "rating": 4,
+    "image": "/images/product-bag.png",
+    "filter": "sacs",
+    "description": "Grand sac à dos de voyage robuste alliant toile de coton épaisse, détails en cuir marron et motifs bogolan. Idéal pour les baroudeurs au style unique.",
+    "features": [
+      "Toile de coton renforcée",
+      "Finitions cuir véritable",
+      "Compartiment PC 15 pouces",
+      "Grande capacité de rangement"
+    ]
+  },
+  {
+    "id": "tshirt-bogolan-classique",
+    "name": "T-shirt Bogolan Classique",
+    "category": "Vêtements",
+    "price": 15000,
+    "rating": 5,
+    "image": "/images/product-clothing.png",
+    "tag": "Nouveau",
+    "filter": "vetements",
+    "gender": "unisexe",
+    "description": "Un t-shirt en coton léger et confortable, orné de magnifiques motifs Bogolan sur la poitrine. Parfait pour un style casual élégant.",
+    "features": [
+      "100% coton respirant",
+      "Motifs bogolan authentiques",
+      "Coupe unisexe confortable",
+      "Lavable en machine"
+    ]
+  },
+  {
+    "id": "robe-ete-bogolan",
+    "name": "Robe d'été Bogolan",
+    "category": "Vêtements",
+    "price": 28000,
+    "rating": 5,
+    "image": "/images/product-clothing.png",
+    "tag": "Populaire",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Robe d'été légère et fluide avec des motifs Bogolan inspirés de l'artisanat traditionnel. Idéale pour les journées ensoleillées.",
+    "features": [
+      "Tissu fluide et léger",
+      "Design bogolan moderne",
+      "Ajustable à la taille",
+      "Confort optimal"
+    ]
+  },
+  {
+    "id": "pagne-bogolan-traditionnel",
+    "name": "Pagne Bogolan Traditionnel",
+    "category": "Vêtements",
+    "price": 18000,
+    "rating": 4,
+    "image": "/images/collection-accessories.png",
+    "tag": "Authentique",
+    "filter": "vetements",
+    "gender": "unisexe",
+    "description": "Véritable pagne traditionnel tissé et teint à la main au Mali. Une pièce unique chargée d'histoire et de culture.",
+    "features": [
+      "Tissage traditionnel fait main",
+      "Teinture 100% naturelle",
+      "Dimensions standard",
+      "Pièce de collection"
+    ]
+  }
+]

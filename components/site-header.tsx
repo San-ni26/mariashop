@@ -95,9 +95,6 @@ export function SiteHeader() {
                 </nav>
 
                 <div className="flex items-center gap-1 sm:gap-2">
-                    <div className="sm:hidden">
-                        <BusinessHoursBadge variant="header" />
-                    </div>
                     <button
                         className="hidden size-10 items-center justify-center rounded-full text-foreground/80 transition-colors hover:bg-secondary hover:text-foreground sm:flex"
                         aria-label="Rechercher"
@@ -147,6 +144,9 @@ export function SiteHeader() {
                     )}
                 >
                     <nav className="flex flex-col px-4 py-4 sm:px-6" aria-label="Navigation mobile">
+                        <div className="mb-2 pb-6 flex items-center justify-center border-b border-border/60">
+                            <BusinessHoursBadge variant="header" />
+                        </div>
                         {NAV_LINKS.map((link) => (
                             <a
                                 key={link.label}

@@ -2996,5 +2996,453 @@
       "Motifs authentiques",
       "Lavable à la main"
     ]
+  },
+  {
+    "id": "collier-accessoire-1",
+    "name": "Collier en Cauris - Modèle 1",
+    "category": "Accessoires",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-1.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-2",
+    "name": "Collier en Cauris - Modèle 2",
+    "category": "Accessoires",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-2.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-3",
+    "name": "Collier en Cauris - Modèle 3",
+    "category": "Accessoires",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-3.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-4",
+    "name": "Collier en Cauris - Modèle 4",
+    "category": "Accessoires",
+    "price": 18000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-4.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-5",
+    "name": "Collier en Cauris - Modèle 5",
+    "category": "Accessoires",
+    "price": 15000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-5.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-6",
+    "name": "Collier en Cauris - Modèle 6",
+    "category": "Accessoires",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-6.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-7",
+    "name": "Collier en Cauris - Modèle 7",
+    "category": "Accessoires",
+    "price": 15000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-7.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-8",
+    "name": "Collier en Cauris - Modèle 8",
+    "category": "Accessoires",
+    "price": 15000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-8.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-9",
+    "name": "Collier en Cauris - Modèle 9",
+    "category": "Accessoires",
+    "price": 12500,
+    "rating": 5,
+    "image": "/images/collier-accessoire-9.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-10",
+    "name": "Collier en Cauris - Modèle 10",
+    "category": "Accessoires",
+    "price": 12500,
+    "rating": 5,
+    "image": "/images/collier-accessoire-10.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-11",
+    "name": "Collier en Cauris - Modèle 11",
+    "category": "Accessoires",
+    "price": 12500,
+    "rating": 5,
+    "image": "/images/collier-accessoire-11.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-12",
+    "name": "Collier en Cauris - Modèle 12",
+    "category": "Accessoires",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-12.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-13",
+    "name": "Collier en Cauris - Modèle 13",
+    "category": "Accessoires",
+    "price": 12500,
+    "rating": 5,
+    "image": "/images/collier-accessoire-13.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-14",
+    "name": "Collier en Cauris - Modèle 14",
+    "category": "Accessoires",
+    "price": 12500,
+    "rating": 5,
+    "image": "/images/collier-accessoire-14.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-15",
+    "name": "Collier en Cauris - Modèle 15",
+    "category": "Accessoires",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-15.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-16",
+    "name": "Collier en Cauris - Modèle 16",
+    "category": "Accessoires",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-16.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-17",
+    "name": "Collier en Cauris - Modèle 17",
+    "category": "Accessoires",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-17.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "collier-accessoire-18",
+    "name": "Collier en Cauris - Modèle 18",
+    "category": "Accessoires",
+    "price": 2000,
+    "rating": 5,
+    "image": "/images/collier-accessoire-18.jpeg",
+    "tag": "Nouveau",
+    "filter": "accessoires",
+    "gender": "femme",
+    "description": "L’authenticité au bout du cou.\n\nNos ensembles en cauris authentiques, fabriqués à la main avec des cauris soigneusement sélectionnés et des perles noires, allient élégance et tradition.\nChaque ensemble comprend :\n🤍 Un collier\n🤍 Un bracelet assorti\n🤍 Une paire de boucles d’oreilles",
+    "features": [
+      "Fait main",
+      "Cauris authentiques"
+    ]
+  },
+  {
+    "id": "blazer-sans-manches-bogolan-1",
+    "name": "Blazer sans manches en Bogolan - Modèle 1",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/blazer-sans-manches-bogolan-1.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le blazer sans manches en Bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "blazer-sans-manches-bogolan-2",
+    "name": "Blazer sans manches en Bogolan - Modèle 2",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/blazer-sans-manches-bogolan-2.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le blazer sans manches en Bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "blazer-sans-manches-bogolan-3",
+    "name": "Blazer sans manches en Bogolan - Modèle 3",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/blazer-sans-manches-bogolan-3.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le blazer sans manches en Bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "blazer-sans-manches-bogolan-4",
+    "name": "Blazer sans manches en Bogolan - Modèle 4",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/blazer-sans-manches-bogolan-4.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le blazer sans manches en Bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "blazer-sans-manches-bogolan-5",
+    "name": "Blazer sans manches en Bogolan - Modèle 5",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/blazer-sans-manches-bogolan-5.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le blazer sans manches en Bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "blazer-sans-manches-bogolan-6",
+    "name": "Blazer sans manches en Bogolan - Modèle 6",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/blazer-sans-manches-bogolan-6.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le blazer sans manches en Bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "blazer-sans-manches-bogolan-7",
+    "name": "Blazer sans manches en Bogolan - Modèle 7",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/blazer-sans-manches-bogolan-7.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le blazer sans manches en Bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "blazer-sans-manches-bogolan-8",
+    "name": "Blazer sans manches en Bogolan - Modèle 8",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/blazer-sans-manches-bogolan-8.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le blazer sans manches en Bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "blazer-sans-manches-bogolan-9",
+    "name": "Blazer sans manches en Bogolan - Modèle 9",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/blazer-sans-manches-bogolan-9.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le blazer sans manches en Bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "blazer-sans-manches-bogolan-10",
+    "name": "Blazer sans manches en Bogolan - Modèle 10",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/blazer-sans-manches-bogolan-10.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le blazer sans manches en Bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
   }
 ]

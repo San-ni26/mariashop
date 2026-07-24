@@ -6,6 +6,8 @@ import { Menu, Search, ShoppingBag, User, X } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { useCart } from "@/context/cart-context"
 
+import { BusinessHoursBadge } from "@/components/business-hours-badge"
+
 const NAV_LINKS = [
     { label: "Boutique", href: "/boutique" },
     { label: "Accessoires", href: "/accessoires" },
@@ -47,6 +49,18 @@ export function SiteHeader() {
                     : "bg-transparent",
             )}
         >
+            {/* Top banner notification bar for business hours */}
+            <div className="hidden sm:block border-b border-border/40 bg-card/60 backdrop-blur-xs py-1 px-4 text-xs">
+                <div className="mx-auto flex max-w-7xl items-center justify-between gap-4">
+                    <BusinessHoursBadge variant="header" />
+                    <div className="flex items-center gap-4 text-muted-foreground text-[11px]">
+                        <span>📍 Bamako, Mali</span>
+                        <span>•</span>
+                        <span>🚚 Livraison rapide 24/48h</span>
+                    </div>
+                </div>
+            </div>
+
             <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8">
                 <a href="/" className="relative z-10 flex items-center" aria-label="Maria Shop, accueil">
                     <Image
@@ -81,6 +95,9 @@ export function SiteHeader() {
                 </nav>
 
                 <div className="flex items-center gap-1 sm:gap-2">
+                    <div className="sm:hidden">
+                        <BusinessHoursBadge variant="header" />
+                    </div>
                     <button
                         className="hidden size-10 items-center justify-center rounded-full text-foreground/80 transition-colors hover:bg-secondary hover:text-foreground sm:flex"
                         aria-label="Rechercher"

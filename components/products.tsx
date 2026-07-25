@@ -53,7 +53,7 @@ export function Products() {
             <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
                 {shown.slice(0, 8).map((product, i) => (
                     <Reveal as="article" key={product.id} delay={i * 60}>
-                        <ProductCard product={product} />
+                        <ProductCard product={product} priority={i < 4} />
                     </Reveal>
                 ))}
             </div>

@@ -162,6 +162,8 @@ export default function AdminPage() {
     const [search, setSearch] = useState("")
     const [filterCategory, setFilterCategory] = useState("")
     const [filterGender, setFilterGender] = useState("")
+    const [currentPage, setCurrentPage] = useState(1)
+    const ITEMS_PER_PAGE = 20
     const [toasts, setToasts] = useState<Toast[]>([])
     const [sidebarOpen, setSidebarOpen] = useState(false)
 
@@ -224,6 +226,12 @@ export default function AdminPage() {
         const matchGender = !filterGender || p.gender === filterGender
         return matchSearch && matchCategory && matchGender
     })
+
+    const totalPages = Math.ceil(filtered.length / ITEMS_PER_PAGE)
+    const paginatedProducts = filtered.slice(
+        (currentPage - 1) * ITEMS_PER_PAGE,
+        currentPage * ITEMS_PER_PAGE
+    )
 
     // ---- Stats ----
     const stats = {
@@ -527,14 +535,20 @@ export default function AdminPage() {
                                 type="text"
                                 placeholder="Rechercher un produit..."
                                 value={search}
-                                onChange={(e) => setSearch(e.target.value)}
+                                onChange={(e) => {
+                                    setSearch(e.target.value)
+                                    setCurrentPage(1)
+                                }}
                             />
                         </div>
                         <select
                             id="admin-filter-category"
                             className="admin-filter-select"
                             value={filterCategory}
-                            onChange={(e) => setFilterCategory(e.target.value)}
+                            onChange={(e) => {
+                                setFilterCategory(e.target.value)
+                                setCurrentPage(1)
+                            }}
                         >
                             <option value="">Toutes catégories</option>
                             <option value="accessoires">Accessoires</option>
@@ -545,7 +559,10 @@ export default function AdminPage() {
                             id="admin-filter-gender"
                             className="admin-filter-select"
                             value={filterGender}
-                            onChange={(e) => setFilterGender(e.target.value)}
+                            onChange={(e) => {
+                                setFilterGender(e.target.value)
+                                setCurrentPage(1)
+                            }}
                         >
                             <option value="">Tous genres</option>
                             <option value="unisexe">Unisexe</option>
@@ -586,7 +603,7 @@ export default function AdminPage() {
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    {filtered.map((product) => (
+                                    {paginatedProducts.map((product) => (
                                         <tr key={product.id}>
                                             <td>
                                                 <div className="admin-product-cell">
@@ -663,6 +680,30 @@ export default function AdminPage() {
                                     ))}
                                 </tbody>
                             </table>
+
+                            {totalPages > 1 && (
+                                <div style={{ display: "flex", justifyContent: "center", alignItems: "center", gap: "12px", padding: "16px", borderTop: "1px solid var(--admin-border)" }}>
+                                    <button 
+                                        className="admin-btn admin-btn-ghost admin-btn-sm" 
+                                        disabled={currentPage === 1}
+                                        onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
+                                        style={currentPage === 1 ? { opacity: 0.5, cursor: "not-allowed" } : {}}
+                                    >
+                                        Précédent
+                                    </button>
+                                    <span style={{ fontSize: "14px", color: "var(--admin-text-dim)" }}>
+                                        Page {currentPage} sur {totalPages}
+                                    </span>
+                                    <button 
+                                        className="admin-btn admin-btn-ghost admin-btn-sm" 
+                                        disabled={currentPage === totalPages}
+                                        onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
+                                        style={currentPage === totalPages ? { opacity: 0.5, cursor: "not-allowed" } : {}}
+                                    >
+                                        Suivant
+                                    </button>
+                                </div>
+                            )}
                         </div>
                     )}
                 </div>

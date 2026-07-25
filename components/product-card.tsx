@@ -11,9 +11,10 @@ import { ProductQuickView } from "@/components/product-quick-view"
 
 interface ProductCardProps {
     product: Product
+    priority?: boolean
 }
 
-export function ProductCard({ product }: ProductCardProps) {
+export function ProductCard({ product, priority = false }: ProductCardProps) {
     const { addToCart } = useCart()
     const [liked, setLiked] = useState(false)
     const [isQuickViewOpen, setQuickViewOpen] = useState(false)
@@ -44,6 +45,7 @@ export function ProductCard({ product }: ProductCardProps) {
                         src={product.image || "/placeholder.svg"}
                         alt={product.name}
                         fill
+                        priority={priority}
                         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                         className="object-cover transition-transform duration-500 group-hover:scale-105"
                     />

@@ -1,288 +1,3000 @@
 [
   {
-    "id": "chale-bogolan",
-    "name": "Châle Bogolan kolaiba",
+    "id": "crop-top-en-bogolan-authentique-prix10000f-1",
+    "name": "Crop top en bogolan authentique - Modèle 1",
     "category": "Vêtements",
-    "price": 27500,
-    "rating": 4,
-    "image": "/images/whatsapp-image-2026-07-11-at-22-37-10-1783809729253.jpeg",
-    "tag": "Femme",
+    "price": 10000,
+    "rating": 5,
+    "image": "/images/crop-top-en-bogolan-authentique-prix10000f-1.jpeg",
+    "tag": "3",
     "filter": "vetements",
     "gender": "femme",
-    "description": "Grand châle en coton tissé à la main aux motifs bogolan traditionnels. Polyvalent et élégant, il se porte en écharpe, en cape ou en couverture pour homme comme pour femme.",
+    "description": "Voici le Crop top en bogolan authentique, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "crop-top-en-bogolan-authentique-prix10000f-2",
+    "name": "Crop top en bogolan authentique - Modèle 2",
+    "category": "Vêtements",
+    "price": 10000,
+    "rating": 5,
+    "image": "/images/crop-top-en-bogolan-authentique-prix10000f-2.jpeg",
+    "tag": "3",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le Crop top en bogolan authentique, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "crop-top-en-bogolan-authentique-prix10000f-3",
+    "name": "Crop top en bogolan authentique - Modèle 3",
+    "category": "Vêtements",
+    "price": 10000,
+    "rating": 5,
+    "image": "/images/crop-top-en-bogolan-authentique-prix10000f-3.jpeg",
+    "tag": "3",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le Crop top en bogolan authentique, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "crop-top-en-bogolan-authentique-prix10000f-4",
+    "name": "Crop top en bogolan authentique - Modèle 4",
+    "category": "Vêtements",
+    "price": 10000,
+    "rating": 5,
+    "image": "/images/crop-top-en-bogolan-authentique-prix10000f-4.jpeg",
+    "tag": "3",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le Crop top en bogolan authentique, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "crop-top-en-bogolan-authentique-prix10000f-5",
+    "name": "Crop top en bogolan authentique - Modèle 5",
+    "category": "Vêtements",
+    "price": 10000,
+    "rating": 5,
+    "image": "/images/crop-top-en-bogolan-authentique-prix10000f-5.jpeg",
+    "tag": "3",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le Crop top en bogolan authentique, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "crop-top-en-bogolan-authentique-prix10000f-6",
+    "name": "Crop top en bogolan authentique - Modèle 6",
+    "category": "Vêtements",
+    "price": 10000,
+    "rating": 5,
+    "image": "/images/crop-top-en-bogolan-authentique-prix10000f-6.jpeg",
+    "tag": "3",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le Crop top en bogolan authentique, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "crop-top-en-bogolan-authentique-prix10000f-7",
+    "name": "Crop top en bogolan authentique - Modèle 7",
+    "category": "Vêtements",
+    "price": 10000,
+    "rating": 5,
+    "image": "/images/crop-top-en-bogolan-authentique-prix10000f-7.jpeg",
+    "tag": "3",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le Crop top en bogolan authentique, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "crop-top-en-bogolan-authentique-prix10000f-8",
+    "name": "Crop top en bogolan authentique - Modèle 8",
+    "category": "Vêtements",
+    "price": 10000,
+    "rating": 5,
+    "image": "/images/crop-top-en-bogolan-authentique-prix10000f-8.jpeg",
+    "tag": "3",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le Crop top en bogolan authentique, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "crop-top-en-bogolan-authentique-prix10000f-9",
+    "name": "Crop top en bogolan authentique - Modèle 9",
+    "category": "Vêtements",
+    "price": 10000,
+    "rating": 5,
+    "image": "/images/crop-top-en-bogolan-authentique-prix10000f-9.jpeg",
+    "tag": "3",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le Crop top en bogolan authentique, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "crop-top-en-bogolan-authentique-prix10000f-10",
+    "name": "Crop top en bogolan authentique - Modèle 10",
+    "category": "Vêtements",
+    "price": 10000,
+    "rating": 5,
+    "image": "/images/crop-top-en-bogolan-authentique-prix10000f-10.jpeg",
+    "tag": "3",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le Crop top en bogolan authentique, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-capuche-bogolan-prix-20-000f-1",
+    "name": "Capuche bogolan",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-capuche-bogolan-prix-20-000f-1.jpeg",
+    "tag": "1",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici la Capuche bogolan, une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-1",
+    "name": "Collection Soro - Modèle 1",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-1.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-2",
+    "name": "Collection Soro - Modèle 2",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-2.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-3",
+    "name": "Collection Soro - Modèle 3",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-3.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-4",
+    "name": "Collection Soro - Modèle 4",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-4.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-5",
+    "name": "Collection Soro - Modèle 5",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-5.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-6",
+    "name": "Collection Soro - Modèle 6",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-6.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-7",
+    "name": "Collection Soro - Modèle 7",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-7.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-8",
+    "name": "Collection Soro - Modèle 8",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-8.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-9",
+    "name": "Collection Soro - Modèle 9",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-9.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-10",
+    "name": "Collection Soro - Modèle 10",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-10.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-11",
+    "name": "Collection Soro - Modèle 11",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-11.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-12",
+    "name": "Collection Soro - Modèle 12",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-12.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-13",
+    "name": "Collection Soro - Modèle 13",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-13.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-14",
+    "name": "Collection Soro - Modèle 14",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-14.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-15",
+    "name": "Collection Soro - Modèle 15",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-15.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-16",
+    "name": "Collection Soro - Modèle 16",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-16.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-collection-soro-16000f-17",
+    "name": "Collection Soro - Modèle 17",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-collection-soro-16000f-17.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Collection Soro, une symphonie de textures et de couleurs qui célèbre l'artisanat ouest-africain. Cet ensemble se compose de pièces uniques, confectionnées avec soin à partir de tissus authentiques et de qualité. Chaque article raconte une histoire, mêlant tradition et modernité pour un style affirmé et élégant.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-1",
+    "name": "Ensemble ( châle & écharpe) - Modèle 1",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-1.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-2",
+    "name": "Ensemble ( châle & écharpe) - Modèle 2",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-2.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-3",
+    "name": "Ensemble ( châle & écharpe) - Modèle 3",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-3.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-4",
+    "name": "Ensemble ( châle & écharpe) - Modèle 4",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-4.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-5",
+    "name": "Ensemble ( châle & écharpe) - Modèle 5",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-5.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-6",
+    "name": "Ensemble ( châle & écharpe) - Modèle 6",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-6.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-7",
+    "name": "Ensemble ( châle & écharpe) - Modèle 7",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-7.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-8",
+    "name": "Ensemble ( châle & écharpe) - Modèle 8",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-8.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-9",
+    "name": "Ensemble ( châle & écharpe) - Modèle 9",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-9.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-10",
+    "name": "Ensemble ( châle & écharpe) - Modèle 10",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-10.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-11",
+    "name": "Ensemble ( châle & écharpe) - Modèle 11",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-11.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-12",
+    "name": "Ensemble ( châle & écharpe) - Modèle 12",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-12.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-13",
+    "name": "Ensemble ( châle & écharpe) - Modèle 13",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-13.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-14",
+    "name": "Ensemble ( châle & écharpe) - Modèle 14",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-14.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-15",
+    "name": "Ensemble ( châle & écharpe) - Modèle 15",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-15.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-16",
+    "name": "Ensemble ( châle & écharpe) - Modèle 16",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-16.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-17",
+    "name": "Ensemble ( châle & écharpe) - Modèle 17",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-17.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-18",
+    "name": "Ensemble ( châle & écharpe) - Modèle 18",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-18.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-19",
+    "name": "Ensemble ( châle & écharpe) - Modèle 19",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-19.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-20",
+    "name": "Ensemble ( châle & écharpe) - Modèle 20",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-20.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-ensemble-chale-echarpe-prix-20000-21",
+    "name": "Ensemble ( châle & écharpe) - Modèle 21",
+    "category": "Vêtements",
+    "price": 20000,
+    "rating": 5,
+    "image": "/images/image-ensemble-chale-echarpe-prix-20000-21.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici l'ensemble (châle & écharpe), une pièce élégante et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-1",
+    "name": "Haut SANOUYA - Modèle 1",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-1.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-2",
+    "name": "Haut SANOUYA - Modèle 2",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-2.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-3",
+    "name": "Haut SANOUYA - Modèle 3",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-3.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-4",
+    "name": "Haut SANOUYA - Modèle 4",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-4.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-5",
+    "name": "Haut SANOUYA - Modèle 5",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-5.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-6",
+    "name": "Haut SANOUYA - Modèle 6",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-6.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-7",
+    "name": "Haut SANOUYA - Modèle 7",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-7.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-8",
+    "name": "Haut SANOUYA - Modèle 8",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-8.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-9",
+    "name": "Haut SANOUYA - Modèle 9",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-9.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-10",
+    "name": "Haut SANOUYA - Modèle 10",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-10.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-11",
+    "name": "Haut SANOUYA - Modèle 11",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-11.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-12",
+    "name": "Haut SANOUYA - Modèle 12",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-12.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-13",
+    "name": "Haut SANOUYA - Modèle 13",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-13.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-14",
+    "name": "Haut SANOUYA - Modèle 14",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-14.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-15",
+    "name": "Haut SANOUYA - Modèle 15",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-15.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-16",
+    "name": "Haut SANOUYA - Modèle 16",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-16.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-17",
+    "name": "Haut SANOUYA - Modèle 17",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-17.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-18",
+    "name": "Haut SANOUYA - Modèle 18",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-18.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-19",
+    "name": "Haut SANOUYA - Modèle 19",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-19.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-haut-sanouya-16000f-20",
+    "name": "Haut SANOUYA - Modèle 20",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-haut-sanouya-16000f-20.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Le haut Sanouya est une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionné à partir de tissus de qualité, il offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-rob34-16000f-1",
+    "name": "Rob 3/4 - Modèle 1",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-rob34-16000f-1.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Robe 3/4, une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-rob34-16000f-2",
+    "name": "Rob 3/4 - Modèle 2",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-rob34-16000f-2.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Robe 3/4, une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-rob34-16000f-3",
+    "name": "Rob 3/4 - Modèle 3",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-rob34-16000f-3.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Robe 3/4, une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-rob34-16000f-4",
+    "name": "Rob 3/4 - Modèle 4",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-rob34-16000f-4.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Robe 3/4, une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-rob34-16000f-5",
+    "name": "Rob 3/4 - Modèle 5",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-rob34-16000f-5.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Robe 3/4, une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-rob34-16000f-6",
+    "name": "Rob 3/4 - Modèle 6",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-rob34-16000f-6.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Robe 3/4, une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-rob34-16000f-7",
+    "name": "Rob 3/4 - Modèle 7",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-rob34-16000f-7.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Robe 3/4, une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-rob34-16000f-8",
+    "name": "Rob 3/4 - Modèle 8",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-rob34-16000f-8.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Découvrez la Robe 3/4, une pièce polyvalente et élégante, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "100% coton",
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-robe-grande-dame-prix-16000f-1",
+    "name": "Robe grande Dame - Modèle 1",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-robe-grande-dame-prix-16000f-1.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici la Robe grande Dame tissu avec des touches de bogolan.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-robe-grande-dame-prix-16000f-2",
+    "name": "Robe grande Dame - Modèle 2",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-robe-grande-dame-prix-16000f-2.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici la Robe grande Dame tissu avec des touches de bogolan.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-robe-grande-dame-prix-16000f-3",
+    "name": "Robe grande Dame - Modèle 3",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-robe-grande-dame-prix-16000f-3.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici la Robe grande Dame tissu avec des touches de bogolan.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-robe-grande-dame-prix-16000f-4",
+    "name": "Robe grande Dame - Modèle 4",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-robe-grande-dame-prix-16000f-4.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici la Robe grande Dame tissu avec des touches de bogolan.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-robe-grande-dame-prix-16000f-5",
+    "name": "Robe grande Dame - Modèle 5",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-robe-grande-dame-prix-16000f-5.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici la Robe grande Dame tissu avec des touches de bogolan.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-robe-grande-dame-prix-16000f-6",
+    "name": "Robe grande Dame - Modèle 6",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-robe-grande-dame-prix-16000f-6.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici la Robe grande Dame tissu avec des touches de bogolan.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-robe-grande-dame-prix-16000f-7",
+    "name": "Robe grande Dame - Modèle 7",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-robe-grande-dame-prix-16000f-7.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici la Robe grande Dame tissu avec des touches de bogolan.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-robe-grande-dame-prix-16000f-8",
+    "name": "Robe grande Dame - Modèle 8",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-robe-grande-dame-prix-16000f-8.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici la Robe grande Dame tissu avec des touches de bogolan.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-robe-grande-dame-prix-16000f-9",
+    "name": "Robe grande Dame - Modèle 9",
+    "category": "Vêtements",
+    "price": 16000,
+    "rating": 5,
+    "image": "/images/image-robe-grande-dame-prix-16000f-9.jpeg",
+    "tag": "2",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici la Robe grande Dame tissu avec des touches de bogolan.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-1",
+    "name": "Châle Bogolan kolaiba - Modèle 1",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-1.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
     "features": [
       "100% coton tissé main",
       "Motifs bogolan authentiques",
-      "couleur vert",
       "Lavable à la main"
     ]
   },
   {
-    "id": "kimono-bogolan",
-    "name": "Châle Bogolan kolaiba",
+    "id": "image-charle-27500-20000-2",
+    "name": "Châle Bogolan kolaiba - Modèle 2",
     "category": "Vêtements",
     "price": 27500,
     "rating": 5,
-    "image": "/images/whatsapp-image-2026-07-11-at-22-37-09-1783810634864.jpeg",
-    "tag": "Femme",
+    "image": "/images/image-charle-27500-20000-2.jpeg",
+    "tag": "4",
     "filter": "vetements",
     "gender": "femme",
-    "description": "Kimono fluide en lin et coton imprimé bogolan. Léger, confortable et intemporel, il s'adapte aussi bien aux tenues masculines que féminines pour toute occasion.",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
     "features": [
       "100% coton tissé main",
       "Motifs bogolan authentiques",
-      "Couleur jaune",
       "Lavable à la main"
     ]
   },
   {
-    "id": "capuche-bogolan",
-    "name": "Châle Bogolan kolaiba",
+    "id": "image-charle-27500-20000-3",
+    "name": "Châle Bogolan kolaiba - Modèle 3",
     "category": "Vêtements",
     "price": 27500,
-    "rating": 4,
-    "image": "/images/whatsapp-image-2026-07-11-at-22-37-08-1-1783810711093.jpeg",
-    "tag": "Femme",
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-3.jpeg",
+    "tag": "4",
     "filter": "vetements",
     "gender": "femme",
-    "description": "Grand châle en coton tissé à la main aux motifs bogolan traditionnels. Polyvalent et élégant, il se porte en écharpe, en cape ou en couverture pour homme comme pour femme.",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
     "features": [
       "100% coton tissé main",
       "Motifs bogolan authentiques",
-      "Couleur bleu",
       "Lavable à la main"
     ]
   },
   {
-    "id": "grand-boubou",
-    "name": "Châle Bogolan kolaiba",
+    "id": "image-charle-27500-20000-4",
+    "name": "Châle Bogolan kolaiba - Modèle 4",
     "category": "Vêtements",
-    "price": 275000,
-    "oldPrice": 55000,
+    "price": 27500,
     "rating": 5,
-    "image": "/images/whatsapp-image-2026-07-11-at-22-37-13-1783810968497.jpeg",
-    "tag": "Femme",
+    "image": "/images/image-charle-27500-20000-4.jpeg",
+    "tag": "4",
     "filter": "vetements",
     "gender": "femme",
-    "description": "Grand châle en coton tissé à la main aux motifs bogolan traditionnels. Polyvalent et élégant, il se porte en écharpe, en cape ou en couverture pour homme comme pour femme.",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
     "features": [
       "100% coton tissé main",
       "Motifs bogolan authentiques",
-      "Couleur bleu ",
       "Lavable à la main"
     ]
   },
   {
-    "id": "kimono-joliya",
-    "name": "Châle Bogolan kolaiba",
+    "id": "image-charle-27500-20000-5",
+    "name": "Châle Bogolan kolaiba - Modèle 5",
     "category": "Vêtements",
     "price": 27500,
     "rating": 5,
-    "image": "/images/whatsapp-image-2026-07-11-at-22-37-14-1783811093596.jpeg",
-    "tag": "Femme",
+    "image": "/images/image-charle-27500-20000-5.jpeg",
+    "tag": "4",
     "filter": "vetements",
     "gender": "femme",
-    "description": "Grand châle en coton tissé à la main aux motifs bogolan traditionnels. Polyvalent et élégant, il se porte en écharpe, en cape ou en couverture pour homme comme pour femme.",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
     "features": [
-      "Tissu satiné ultra-doux",
+      "100% coton tissé main",
       "Motifs bogolan authentiques",
-      "Couleur rouge",
       "Lavable à la main"
     ]
   },
   {
-    "id": "haut-sanouya",
-    "name": "Châle Bogolan kolaiba",
+    "id": "image-charle-27500-20000-6",
+    "name": "Châle Bogolan kolaiba - Modèle 6",
     "category": "Vêtements",
     "price": 27500,
     "rating": 5,
-    "image": "/images/whatsapp-image-2026-07-11-at-22-37-11-1783811833054.jpeg",
-    "tag": "Femme",
+    "image": "/images/image-charle-27500-20000-6.jpeg",
+    "tag": "4",
     "filter": "vetements",
     "gender": "femme",
-    "description": "Le Haut Sanouya est une blouse féminine courte aux détails bogolan en poitrine et aux manches évasées. Une touche de modernité africaine pour le quotidien.",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
     "features": [
-      "Coton léger et respirant",
-      "Détails brodés bogolan en col",
-      "Manches évasées tendance",
-      "Style moderne et élégant"
-    ]
-  },
-  {
-    "id": "robe-bogolan",
-    "name": "Châle Bogolan kolaiba",
-    "category": "Vêtements",
-    "price": 27500,
-    "oldPrice": 1,
-    "rating": 5,
-    "image": "/images/whatsapp-image-2026-07-11-at-22-37-11-1-1783811951299.jpeg",
-    "tag": "Femme",
-    "filter": "vetements",
-    "gender": "femme",
-    "description": "Robe mi-longue cintrée en wax hollandais aux imprimés bogolan. Élégante pour les sorties en ville, les cérémonies ou les soirées africaines.",
-    "features": [
-      "Wax hollandais haut de gamme",
-      "Coupe cintrée valorisant la silhouette",
-      "Fermeture invisible dans le dos",
-      "Finitions soignées"
-    ]
-  },
-  {
-    "id": "turban-bogolan-eclat",
-    "name": "Châle Bogolan kolaiba",
-    "category": "Vêtements",
-    "price": 27500,
-    "rating": 5,
-    "image": "/images/whatsapp-image-2026-07-11-at-22-37-12-1783812154300.jpeg",
-    "tag": "Femme",
-    "filter": "vetements",
-    "gender": "femme",
-    "description": "Un turban moderne orné de motifs traditionnels Bogolan faits main. Facile à enfiler, il apporte une touche royale et culturelle à toutes vos tenues quotidiennes.",
-    "features": [
-      "Coton authentique tissé main",
-      "Motifs bogolan traditionnels",
-      "Élastique ajustable à l'arrière",
-      "Facile à enfiler"
-    ]
-  },
-  {
-    "id": "parure-doree-sahel",
-    "name": "Parure Dorée Sahel",
-    "category": "Accessoires",
-    "price": 28000,
-    "rating": 4,
-    "image": "/images/product-jewelry.png",
-    "tag": "Femme",
-    "filter": "accessoires",
-    "gender": "femme",
-    "description": "Ensemble de bijoux dorés finement ciselés inspirés de l'orfèvrerie sahélienne. Composé d'un collier plastron et de boucles d'oreilles assorties.",
-    "features": [
-      "Finition plaqué or 18 carats",
-      "Détails martelés à la main",
-      "Hypoallergénique et sans nickel",
-      "Livré avec son écrin"
-    ]
-  },
-  {
-    "id": "tunique-bogolan-homme",
-    "name": "Tunique Bogolan Homme",
-    "category": "Accessoires",
-    "price": 26000,
-    "rating": 5,
-    "image": "/images/hero-model.png",
-    "tag": "Homme",
-    "filter": "accessoires",
-    "gender": "homme",
-    "description": "Tunique cintrée pour homme ornée de motifs bogolan verticaux sur la poitrine. Allie fierté culturelle et élégance moderne.",
-    "features": [
-      "Coton premium structuré",
-      "Bandes bogolan cousues main",
-      "Col officier moderne",
-      "Idéal pour sorties ou cérémonies"
-    ]
-  },
-  {
-    "id": "sac-tisse-bogolan",
-    "name": "Sac Tissé Bogolan",
-    "category": "Sacs",
-    "price": 37000,
-    "rating": 5,
-    "image": "/images/product-bag.png",
-    "tag": "Best-seller",
-    "filter": "sacs",
-    "description": "Sac à main structuré en cuir vegan et véritable tissu bogolan fait main. Un accessoire unique alliant modernité urbaine et tradition africaine.",
-    "features": [
-      "Cuir vegan de haute qualité",
-      "Empiècements en bogolan authentique",
-      "Bandoulière amovible incluse",
-      "Poches intérieures zippées"
-    ]
-  },
-  {
-    "id": "pochette-bogolan-chic",
-    "name": "Pochette Bogolan Chic",
-    "category": "Sacs",
-    "price": 15000,
-    "rating": 5,
-    "image": "/images/product-bag.png",
-    "tag": "Nouveau",
-    "filter": "sacs",
-    "description": "Pochette à main élégante pour vos soirées, mariages ou sorties. Finition en lin avec rabat en authentique bogolan noir et blanc.",
-    "features": [
-      "Format compact pratique",
-      "Fermoir aimanté sécurisé",
-      "Rabat en bogolan fait main",
-      "Intérieur doublé satin"
-    ]
-  },
-  {
-    "id": "sac-dos-voyage",
-    "name": "Sac à Dos Voyage Bogolan",
-    "category": "Sacs",
-    "price": 42000,
-    "rating": 4,
-    "image": "/images/product-bag.png",
-    "filter": "sacs",
-    "description": "Grand sac à dos de voyage robuste alliant toile de coton épaisse, détails en cuir marron et motifs bogolan. Idéal pour les baroudeurs au style unique.",
-    "features": [
-      "Toile de coton renforcée",
-      "Finitions cuir véritable",
-      "Compartiment PC 15 pouces",
-      "Grande capacité de rangement"
-    ]
-  },
-  {
-    "id": "tshirt-bogolan-classique",
-    "name": "T-shirt Bogolan Classique",
-    "category": "Vêtements",
-    "price": 15000,
-    "rating": 5,
-    "image": "/images/product-clothing.png",
-    "tag": "Nouveau",
-    "filter": "vetements",
-    "gender": "unisexe",
-    "description": "Un t-shirt en coton léger et confortable, orné de magnifiques motifs Bogolan sur la poitrine. Parfait pour un style casual élégant.",
-    "features": [
-      "100% coton respirant",
+      "100% coton tissé main",
       "Motifs bogolan authentiques",
-      "Coupe unisexe confortable",
-      "Lavable en machine"
+      "Lavable à la main"
     ]
   },
   {
-    "id": "robe-ete-bogolan",
-    "name": "Robe d'été Bogolan",
+    "id": "image-charle-27500-20000-7",
+    "name": "Châle Bogolan kolaiba - Modèle 7",
     "category": "Vêtements",
-    "price": 28000,
+    "price": 27500,
     "rating": 5,
-    "image": "/images/product-clothing.png",
-    "tag": "Populaire",
+    "image": "/images/image-charle-27500-20000-7.jpeg",
+    "tag": "4",
     "filter": "vetements",
     "gender": "femme",
-    "description": "Robe d'été légère et fluide avec des motifs Bogolan inspirés de l'artisanat traditionnel. Idéale pour les journées ensoleillées.",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
     "features": [
-      "Tissu fluide et léger",
-      "Design bogolan moderne",
-      "Ajustable à la taille",
-      "Confort optimal"
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
     ]
   },
   {
-    "id": "pagne-bogolan-traditionnel",
-    "name": "Pagne Bogolan Traditionnel",
+    "id": "image-charle-27500-20000-8",
+    "name": "Châle Bogolan kolaiba - Modèle 8",
     "category": "Vêtements",
-    "price": 18000,
-    "rating": 4,
-    "image": "/images/collection-accessories.png",
-    "tag": "Authentique",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-8.jpeg",
+    "tag": "4",
     "filter": "vetements",
-    "gender": "unisexe",
-    "description": "Véritable pagne traditionnel tissé et teint à la main au Mali. Une pièce unique chargée d'histoire et de culture.",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
     "features": [
-      "Tissage traditionnel fait main",
-      "Teinture 100% naturelle",
-      "Dimensions standard",
-      "Pièce de collection"
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-9",
+    "name": "Châle Bogolan kolaiba - Modèle 9",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-9.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-10",
+    "name": "Châle Bogolan kolaiba - Modèle 10",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-10.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-11",
+    "name": "Châle Bogolan kolaiba - Modèle 11",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-11.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-12",
+    "name": "Châle Bogolan kolaiba - Modèle 12",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-12.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-13",
+    "name": "Châle Bogolan kolaiba - Modèle 13",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-13.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-14",
+    "name": "Châle Bogolan kolaiba - Modèle 14",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-14.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-15",
+    "name": "Châle Bogolan kolaiba - Modèle 15",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-15.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-16",
+    "name": "Châle Bogolan kolaiba - Modèle 16",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-16.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-17",
+    "name": "Châle Bogolan kolaiba - Modèle 17",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-17.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-18",
+    "name": "Châle Bogolan kolaiba - Modèle 18",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-18.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-19",
+    "name": "Châle Bogolan kolaiba - Modèle 19",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-19.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-20",
+    "name": "Châle Bogolan kolaiba - Modèle 20",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-20.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-21",
+    "name": "Châle Bogolan kolaiba - Modèle 21",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-21.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-22",
+    "name": "Châle Bogolan kolaiba - Modèle 22",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-22.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-23",
+    "name": "Châle Bogolan kolaiba - Modèle 23",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-23.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-24",
+    "name": "Châle Bogolan kolaiba - Modèle 24",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-24.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-25",
+    "name": "Châle Bogolan kolaiba - Modèle 25",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-25.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-26",
+    "name": "Châle Bogolan kolaiba - Modèle 26",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-26.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-27",
+    "name": "Châle Bogolan kolaiba - Modèle 27",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-27.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-28",
+    "name": "Châle Bogolan kolaiba - Modèle 28",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-28.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-29",
+    "name": "Châle Bogolan kolaiba - Modèle 29",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-29.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-30",
+    "name": "Châle Bogolan kolaiba - Modèle 30",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-30.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-31",
+    "name": "Châle Bogolan kolaiba - Modèle 31",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-31.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-32",
+    "name": "Châle Bogolan kolaiba - Modèle 32",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-32.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-33",
+    "name": "Châle Bogolan kolaiba - Modèle 33",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-33.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-34",
+    "name": "Châle Bogolan kolaiba - Modèle 34",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-34.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-35",
+    "name": "Châle Bogolan kolaiba - Modèle 35",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-35.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-36",
+    "name": "Châle Bogolan kolaiba - Modèle 36",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-36.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-37",
+    "name": "Châle Bogolan kolaiba - Modèle 37",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-37.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-38",
+    "name": "Châle Bogolan kolaiba - Modèle 38",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-38.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-39",
+    "name": "Châle Bogolan kolaiba - Modèle 39",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-39.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-40",
+    "name": "Châle Bogolan kolaiba - Modèle 40",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-40.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-41",
+    "name": "Châle Bogolan kolaiba - Modèle 41",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-41.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-42",
+    "name": "Châle Bogolan kolaiba - Modèle 42",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-42.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-43",
+    "name": "Châle Bogolan kolaiba - Modèle 43",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-43.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-44",
+    "name": "Châle Bogolan kolaiba - Modèle 44",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-44.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-45",
+    "name": "Châle Bogolan kolaiba - Modèle 45",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-45.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-46",
+    "name": "Châle Bogolan kolaiba - Modèle 46",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-46.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-47",
+    "name": "Châle Bogolan kolaiba - Modèle 47",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-47.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-48",
+    "name": "Châle Bogolan kolaiba - Modèle 48",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-48.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-49",
+    "name": "Châle Bogolan kolaiba - Modèle 49",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-49.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-50",
+    "name": "Châle Bogolan kolaiba - Modèle 50",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-50.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-51",
+    "name": "Châle Bogolan kolaiba - Modèle 51",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-51.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-52",
+    "name": "Châle Bogolan kolaiba - Modèle 52",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-52.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-53",
+    "name": "Châle Bogolan kolaiba - Modèle 53",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-53.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-54",
+    "name": "Châle Bogolan kolaiba - Modèle 54",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-54.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-55",
+    "name": "Châle Bogolan kolaiba - Modèle 55",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-55.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-56",
+    "name": "Châle Bogolan kolaiba - Modèle 56",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-56.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charle-27500-20000-57",
+    "name": "Châle Bogolan kolaiba - Modèle 57",
+    "category": "Vêtements",
+    "price": 27500,
+    "rating": 5,
+    "image": "/images/image-charle-27500-20000-57.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le châle Bogolan Kolaiba, une pièce artisanale exceptionnelle qui allie tradition et élégance contemporaine. Réalisé en 100% coton tissé main selon les techniques ancestrales du bogolan, ce châle arbore des motifs authentiques. Polyvalent et chic, il peut se porter de multiples façons pour s'adapter à votre style.",
+    "features": [
+      "100% coton tissé main",
+      "Motifs bogolan authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-1",
+    "name": "charpe Bogolan Kolaiba - Modèle 1",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-1.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-2",
+    "name": "charpe Bogolan Kolaiba - Modèle 2",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-2.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-3",
+    "name": "charpe Bogolan Kolaiba - Modèle 3",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-3.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-4",
+    "name": "charpe Bogolan Kolaiba - Modèle 4",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-4.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-5",
+    "name": "charpe Bogolan Kolaiba - Modèle 5",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-5.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-6",
+    "name": "charpe Bogolan Kolaiba - Modèle 6",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-6.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-7",
+    "name": "charpe Bogolan Kolaiba - Modèle 7",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-7.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-8",
+    "name": "charpe Bogolan Kolaiba - Modèle 8",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-8.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-9",
+    "name": "charpe Bogolan Kolaiba - Modèle 9",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-9.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-10",
+    "name": "charpe Bogolan Kolaiba - Modèle 10",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-10.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-11",
+    "name": "charpe Bogolan Kolaiba - Modèle 11",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-11.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-12",
+    "name": "charpe Bogolan Kolaiba - Modèle 12",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-12.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-13",
+    "name": "charpe Bogolan Kolaiba - Modèle 13",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-13.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-14",
+    "name": "charpe Bogolan Kolaiba - Modèle 14",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-14.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-15",
+    "name": "charpe Bogolan Kolaiba - Modèle 15",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-15.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-16",
+    "name": "charpe Bogolan Kolaiba - Modèle 16",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-16.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-17",
+    "name": "charpe Bogolan Kolaiba - Modèle 17",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-17.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-18",
+    "name": "charpe Bogolan Kolaiba - Modèle 18",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-18.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-19",
+    "name": "charpe Bogolan Kolaiba - Modèle 19",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-19.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-20",
+    "name": "charpe Bogolan Kolaiba - Modèle 20",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-20.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-21",
+    "name": "charpe Bogolan Kolaiba - Modèle 21",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-21.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-22",
+    "name": "charpe Bogolan Kolaiba - Modèle 22",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-22.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-23",
+    "name": "charpe Bogolan Kolaiba - Modèle 23",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-23.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-24",
+    "name": "charpe Bogolan Kolaiba - Modèle 24",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-24.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-25",
+    "name": "charpe Bogolan Kolaiba - Modèle 25",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-25.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-26",
+    "name": "charpe Bogolan Kolaiba - Modèle 26",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-26.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-27",
+    "name": "charpe Bogolan Kolaiba - Modèle 27",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-27.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-28",
+    "name": "charpe Bogolan Kolaiba - Modèle 28",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-28.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-29",
+    "name": "charpe Bogolan Kolaiba - Modèle 29",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-29.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-30",
+    "name": "charpe Bogolan Kolaiba - Modèle 30",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-30.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-31",
+    "name": "charpe Bogolan Kolaiba - Modèle 31",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-31.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-32",
+    "name": "charpe Bogolan Kolaiba - Modèle 32",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-32.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-33",
+    "name": "charpe Bogolan Kolaiba - Modèle 33",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-33.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-34",
+    "name": "charpe Bogolan Kolaiba - Modèle 34",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-34.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-35",
+    "name": "charpe Bogolan Kolaiba - Modèle 35",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-35.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-36",
+    "name": "charpe Bogolan Kolaiba - Modèle 36",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-36.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-37",
+    "name": "charpe Bogolan Kolaiba - Modèle 37",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-37.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
+    ]
+  },
+  {
+    "id": "image-charpe-bogolan-kolaiba-prix8000f-38",
+    "name": "charpe Bogolan Kolaiba - Modèle 38",
+    "category": "Vêtements",
+    "price": 8000,
+    "rating": 5,
+    "image": "/images/image-charpe-bogolan-kolaiba-prix8000f-38.jpeg",
+    "tag": "4",
+    "filter": "vetements",
+    "gender": "femme",
+    "description": "Voici le charpe Bogolan Kolaiba, une pièce tendance et confortable, parfaite pour rehausser n'importe quelle tenue. Confectionnée à partir de tissus de qualité, elle offre un tombé impeccable et un confort optimal tout au long de la journée. Son design épuré lui permet de s'adapter facilement à différents styles, que ce soit pour une allure décontractée ou une occasion plus formelle.",
+    "features": [
+      "Motifs authentiques",
+      "Lavable à la main"
     ]
   }
 ]

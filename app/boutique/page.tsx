@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { Search, SlidersHorizontal } from "lucide-react"
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
@@ -20,6 +20,7 @@ export default function BoutiquePage() {
     const [activeTab, setActiveTab] = useState("all")
     const [searchQuery, setSearchQuery] = useState("")
     const [sortBy, setSortBy] = useState("default")
+    const [visibleCount, setVisibleCount] = useState(12)
     const { products } = useProducts()
 
     // Filter products by active tab & search query
@@ -81,6 +82,7 @@ export default function BoutiquePage() {
                                 onClick={() => {
                                     setActiveTab(tab.value)
                                     setSearchQuery("") // Clear search when switching tabs
+                                    setVisibleCount(12)
                                 }}
                                 className={cn(
                                     "rounded-full border px-5 py-2 text-sm font-semibold transition-all cursor-pointer",
@@ -103,7 +105,10 @@ export default function BoutiquePage() {
                                 type="text"
                                 placeholder="Rechercher dans la boutique..."
                                 value={searchQuery}
-                                onChange={(e) => setSearchQuery(e.target.value)}
+                                onChange={(e) => {
+                                    setSearchQuery(e.target.value)
+                                    setVisibleCount(12)
+                                }}
                                 className="h-10 w-full rounded-full border border-border bg-card pl-10 pr-4 text-sm text-foreground outline-none transition-shadow placeholder:text-muted-foreground focus:ring-2 focus:ring-accent/40"
                             />
                         </div>
@@ -113,7 +118,10 @@ export default function BoutiquePage() {
                             <SlidersHorizontal className="size-4 text-muted-foreground" />
                             <select
                                 value={sortBy}
-                                onChange={(e) => setSortBy(e.target.value)}
+                                onChange={(e) => {
+                                    setSortBy(e.target.value)
+                                    setVisibleCount(12)
+                                }}
                                 aria-label="Trier les produits par"
                                 className="h-10 rounded-full border border-border bg-card px-4 text-sm text-foreground outline-none transition-shadow focus:ring-2 focus:ring-accent/40"
                             >
@@ -136,13 +144,26 @@ export default function BoutiquePage() {
                             </p>
                         </div>
                     ) : (
-                        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-                            {sortedProducts.map((product, i) => (
-                                <Reveal key={product.id} delay={i * 40} as="article">
-                                    <ProductCard product={product} />
+                        <>
+                            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+                                {sortedProducts.slice(0, visibleCount).map((product, i) => (
+                                    <Reveal key={product.id} delay={(i % 12) * 40} as="article">
+                                        <ProductCard product={product} priority={i < 4} />
+                                    </Reveal>
+                                ))}
+                            </div>
+                            
+                            {visibleCount < sortedProducts.length && (
+                                <Reveal className="mt-12 flex justify-center">
+                                    <button
+                                        onClick={() => setVisibleCount((prev) => prev + 12)}
+                                        className="rounded-full border border-border bg-card px-8 py-3 text-sm font-semibold transition-all hover:border-accent hover:text-accent shadow-sm cursor-pointer"
+                                    >
+                                        Voir plus d&apos;articles
+                                    </button>
                                 </Reveal>
-                            ))}
-                        </div>
+                            )}
+                        </>
                     )}
                 </div>
             </main>

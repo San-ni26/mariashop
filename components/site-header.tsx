@@ -49,37 +49,31 @@ export function SiteHeader() {
                     : "bg-transparent",
             )}
         >
-            {/* Top banner notification bar for business hours */}
-            <div className="hidden sm:block border-b border-border/40 bg-card/60 backdrop-blur-xs py-1 px-4 text-xs">
-                <div className="mx-auto flex max-w-7xl items-center justify-between gap-4">
-                    <BusinessHoursBadge variant="header" />
-                    <div className="flex items-center gap-4 text-muted-foreground text-[11px]">
-                        <span>📍 Bamako, Mali</span>
-                        <span>•</span>
-                        <span>🚚 Livraison rapide 24/48h</span>
+            <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8">
+                <div className="flex items-center gap-4">
+                    <a href="/" className="relative z-10 flex items-center" aria-label="Maria Shop, accueil">
+                        <Image
+                            src="/images/LOGO-01.png"
+                            alt="Maria Shop"
+                            width={200}
+                            height={56}
+                            priority
+                            className="h-9 w-auto sm:h-11 logo-theme-light"
+                        />
+                        <Image
+                            src="/images/LOGO-02.png"
+                            alt="Maria Shop"
+                            width={200}
+                            height={56}
+                            priority
+                            className="h-9 w-auto sm:h-11 logo-theme-dark"
+                        />
+                    </a>
+                    
+                    <div className="hidden sm:block">
+                        <BusinessHoursBadge variant="header" />
                     </div>
                 </div>
-            </div>
-
-            <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8">
-                <a href="/" className="relative z-10 flex items-center" aria-label="Maria Shop, accueil">
-                    <Image
-                        src="/images/LOGO-01.png"
-                        alt="Maria Shop"
-                        width={200}
-                        height={56}
-                        priority
-                        className="h-9 w-auto sm:h-11 logo-theme-light"
-                    />
-                    <Image
-                        src="/images/LOGO-02.png"
-                        alt="Maria Shop"
-                        width={200}
-                        height={56}
-                        priority
-                        className="h-9 w-auto sm:h-11 logo-theme-dark"
-                    />
-                </a>
 
                 <nav className="hidden items-center gap-8 lg:flex" aria-label="Navigation principale">
                     {NAV_LINKS.map((link) => (

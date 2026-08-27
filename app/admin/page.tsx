@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback, useRef } from "react"
 import Image from "next/image"
 import Link from "next/link"
 import type { Product, ProductGender } from "@/lib/products-data"
+import { AdminHome } from "@/components/admin-home"
 
 // ============================================================
 // Icons (inline SVG for no extra deps)
@@ -159,6 +160,7 @@ const GENDER_OPTIONS: { label: string; value: ProductGender | "" }[] = [
 export default function AdminPage() {
     const [products, setProducts] = useState<Product[]>([])
     const [loading, setLoading] = useState(true)
+    const [activeTab, setActiveTab] = useState<"products" | "home">("products")
     const [search, setSearch] = useState("")
     const [filterCategory, setFilterCategory] = useState("")
     const [filterGender, setFilterGender] = useState("")
@@ -435,9 +437,19 @@ export default function AdminPage() {
                     </div>
                 </div>
                 <nav className="admin-sidebar-nav">
-                    <button className="admin-nav-item active">
+                    <button 
+                        className={`admin-nav-item ${activeTab === 'products' ? 'active' : ''}`}
+                        onClick={() => { setActiveTab('products'); setSidebarOpen(false); }}
+                    >
                         <Icons.Dashboard />
                         Tableau de bord
+                    </button>
+                    <button 
+                        className={`admin-nav-item ${activeTab === 'home' ? 'active' : ''}`}
+                        onClick={() => { setActiveTab('home'); setSidebarOpen(false); }}
+                    >
+                        <Icons.Star />
+                        Page d'accueil
                     </button>
                     <button className="admin-nav-item" onClick={openAddModal}>
                         <Icons.Plus />
@@ -464,16 +476,21 @@ export default function AdminPage() {
                         >
                             <Icons.Menu />
                         </button>
-                        <h1>Gestion des Produits</h1>
+                        <h1>{activeTab === 'products' ? "Gestion des Produits" : "Gestion de l'Accueil"}</h1>
                     </div>
-                    <div className="admin-topbar-actions">
-                        <button className="admin-btn admin-btn-primary" onClick={openAddModal}>
-                            <Icons.Plus />
-                            Nouveau produit
-                        </button>
-                    </div>
+                    {activeTab === 'products' && (
+                        <div className="admin-topbar-actions">
+                            <button className="admin-btn admin-btn-primary" onClick={openAddModal}>
+                                <Icons.Plus />
+                                Nouveau produit
+                            </button>
+                        </div>
+                    )}
                 </header>
 
+                {activeTab === 'home' ? (
+                    <AdminHome />
+                ) : (
                 <div className="admin-content">
                     {/* Stats */}
                     <div className="admin-stats">
@@ -707,6 +724,7 @@ export default function AdminPage() {
                         </div>
                     )}
                 </div>
+                )}
             </main>
 
             {/* ============================================================ */}

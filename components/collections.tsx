@@ -2,37 +2,40 @@ import Image from "next/image"
 import { ArrowUpRight } from "lucide-react"
 import { Reveal } from "@/components/reveal"
 
-const COLLECTIONS = [
-    {
-        title: "Mode & Vêtements Bogolan",
-        subtitle: "Châles, kimonos et boubous authentiques",
-        image: "/images/product-clothing.png",
-        span: "lg:col-span-7",
-        href: "/accessoires",
-    },
-    {
-        title: "Sacs & Pochettes",
-        subtitle: "L'artisanat africain sublimé",
-        image: "/images/collection-accessories.png",
-        span: "lg:col-span-5",
-        href: "/sacs",
-    },
-]
 
-export function Collections() {
+export function Collections({ data }: { data?: any }) {
+    const badge = data?.badge || "Nos collections"
+    const title = data?.title || "Des univers pensés pour vous"
+    const items = data?.items || [
+        {
+            title: "Mode & Vêtements Bogolan",
+            subtitle: "Châles, kimonos et boubous authentiques",
+            image: "/images/product-clothing.png",
+            span: "lg:col-span-7",
+            href: "/accessoires",
+        },
+        {
+            title: "Sacs & Pochettes",
+            subtitle: "L'artisanat africain sublimé",
+            image: "/images/collection-accessories.png",
+            span: "lg:col-span-5",
+            href: "/sacs",
+        },
+    ]
+
     return (
         <section id="collections" className="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8 lg:py-20">
             <Reveal className="mb-10 max-w-2xl">
                 <span className="text-sm font-semibold uppercase tracking-widest text-accent">
-                    Nos collections
+                    {badge}
                 </span>
                 <h2 className="mt-2 font-sans text-4xl font-extrabold tracking-tight text-balance sm:text-5xl">
-                    Des univers pensés pour vous
+                    {title}
                 </h2>
             </Reveal>
 
             <div className="grid gap-6 lg:grid-cols-12">
-                {COLLECTIONS.map((c, i) => (
+                {items.map((c: any, i: number) => (
                     <Reveal key={c.title} delay={i * 120} className={c.span}>
                         <a
                             href={c.href}
@@ -62,3 +65,4 @@ export function Collections() {
         </section>
     )
 }
+

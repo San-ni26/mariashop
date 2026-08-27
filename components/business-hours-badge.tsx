@@ -10,12 +10,12 @@ export interface BusinessHoursBadgeProps {
 }
 
 const SCHEDULE = [
-  { day: "Lundi", hours: "08:30 - 19:30", isOpenDay: true, openMin: 8 * 60 + 30, closeMin: 19 * 60 + 30 },
-  { day: "Mardi", hours: "08:30 - 19:30", isOpenDay: true, openMin: 8 * 60 + 30, closeMin: 19 * 60 + 30 },
-  { day: "Mercredi", hours: "08:30 - 19:30", isOpenDay: true, openMin: 8 * 60 + 30, closeMin: 19 * 60 + 30 },
-  { day: "Jeudi", hours: "08:30 - 19:30", isOpenDay: true, openMin: 8 * 60 + 30, closeMin: 19 * 60 + 30 },
-  { day: "Vendredi", hours: "08:30 - 19:30", isOpenDay: true, openMin: 8 * 60 + 30, closeMin: 19 * 60 + 30 },
-  { day: "Samedi", hours: "09:00 - 19:00", isOpenDay: true, openMin: 9 * 60, closeMin: 19 * 60 },
+  { day: "Lundi", hours: "09:00 - 20:00", isOpenDay: true, openMin: 9 * 60, closeMin: 20 * 60 },
+  { day: "Mardi", hours: "09:00 - 20:00", isOpenDay: true, openMin: 9 * 60, closeMin: 20 * 60 },
+  { day: "Mercredi", hours: "09:00 - 20:00", isOpenDay: true, openMin: 9 * 60, closeMin: 20 * 60 },
+  { day: "Jeudi", hours: "09:00 - 20:00", isOpenDay: true, openMin: 9 * 60, closeMin: 20 * 60 },
+  { day: "Vendredi", hours: "09:00 - 20:00", isOpenDay: true, openMin: 9 * 60, closeMin: 20 * 60 },
+  { day: "Samedi", hours: "09:00 - 20:00", isOpenDay: true, openMin: 9 * 60, closeMin: 20 * 60 },
   { day: "Dimanche", hours: "Fermé", isOpenDay: false, openMin: 0, closeMin: 0 },
 ]
 
@@ -61,7 +61,7 @@ export function BusinessHoursBadge({ variant = "header", className }: BusinessHo
           <div className="flex items-center gap-2 font-medium">
             <Clock className="size-3.5 text-accent animate-pulse" />
             <span>
-              <strong>Heures de travail :</strong> Lun - Sam : 08h30 - 19h30 | Dim : Fermé
+              <strong>Heures de travail :</strong> Lun - Sam : 09h00 - 20h00 | Dim : Fermé
             </span>
           </div>
           {mounted && (
@@ -174,8 +174,6 @@ export function BusinessHoursBadge({ variant = "header", className }: BusinessHo
       >
         <span className="flex items-center gap-1.5">
           <Clock className="size-3.5 text-accent transition-transform group-hover:scale-110" />
-          <span className="hidden sm:inline text-muted-foreground">Horaires :</span>
-          <span className="font-semibold text-foreground">Lun-Sam 8h30-19h30</span>
         </span>
 
         {mounted && (

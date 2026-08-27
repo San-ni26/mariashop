@@ -6,17 +6,20 @@ import { cn } from "@/lib/utils"
 import { useProducts } from "@/lib/use-products"
 import { ProductCard } from "@/components/product-card"
 
-const FILTERS = [
-    { label: "Tout", value: "all" },
-    { label: "Perruques", value: "perruques" },
-    { label: "Accessoires", value: "accessoires" },
-    { label: "Vêtements", value: "vetements" },
-    { label: "Collections", value: "collections" },
-]
 
-export function Products() {
+export function Products({ data }: { data?: any }) {
     const [active, setActive] = useState("all")
     const { products } = useProducts()
+
+    const badge = data?.badge || "Nos articles"
+    const title = data?.title || "Les pièces en vedette"
+    const filters = data?.filters || [
+        { label: "Tout", value: "all" },
+        { label: "Perruques", value: "perruques" },
+        { label: "Accessoires", value: "accessoires" },
+        { label: "Vêtements", value: "vetements" },
+        { label: "Collections", value: "collections" },
+    ]
 
     // Filter products shown on the homepage
     const shown = products.filter((p) => active === "all" || p.filter === active)
@@ -26,14 +29,14 @@ export function Products() {
             <Reveal className="flex flex-col items-start justify-between gap-6 sm:flex-row sm:items-end">
                 <div>
                     <span className="text-sm font-semibold uppercase tracking-widest text-accent">
-                        Nos articles
+                        {badge}
                     </span>
                     <h2 className="mt-2 font-sans text-4xl font-extrabold tracking-tight text-balance sm:text-5xl">
-                        Les pièces en vedette
+                        {title}
                     </h2>
                 </div>
                 <div className="flex flex-wrap gap-2">
-                    {FILTERS.map((f) => (
+                    {filters.map((f: any) => (
                         <button
                             key={f.value}
                             onClick={() => setActive(f.value)}
@@ -60,3 +63,4 @@ export function Products() {
         </section>
     )
 }
+

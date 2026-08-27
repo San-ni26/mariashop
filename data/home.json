@@ -1,0 +1,245 @@
+{
+  "hero": {
+    "badgeText": "La Beauté à l'Africaine",
+    "titleLine1": "Révélez votre",
+    "titleLine2": "éclat naturel",
+    "description": "Vêtements, sacs, accessoires inspirés du bogolan. Maria Shop célèbre l'élégance africaine, une pièce d'exception à la fois.",
+    "buttonText": "Explorer la boutique",
+    "buttonLink": "/boutique",
+    "slides": [
+      {
+        "src": "/images/0b28d649-c551-4a3c-895a-d50eb49bb207-1787862759122.PNG",
+        "alt": "Femme africaine élégante mettant en valeur une perruque Maria Shop"
+      },
+      {
+        "src": "/images/5a8a0829-d48a-4c09-bd50-a989ceb4fd64-1787862765742.PNG",
+        "alt": "Création raffinée et élégance africaine"
+      },
+      {
+        "src": "/images/245ec2e6-09be-45bd-aa52-f53ee630784f-1787862776488.PNG",
+        "alt": "Crop top en bogolan authentique"
+      },
+      {
+        "src": "/images/b6fa6181-95fc-4f39-8e2d-29eecff4f099-1787862783853.PNG",
+        "alt": "Ensemble châle et écharpe Maria Shop"
+      },
+      {
+        "src": "/images/b9163fd7-5c4e-4f4e-bfe0-af913b561637-1787862850800.PNG",
+        "alt": "Nouvelle image"
+      },
+      {
+        "src": "/images/eb2d3351-c909-446f-87fd-68158dbf214b-1787862859224.PNG",
+        "alt": "Nouvelle image"
+      },
+      {
+        "src": "/images/fec7fcaa-5a95-4799-9c2a-cd339d19acfa-1787862865343.PNG",
+        "alt": "Nouvelle image"
+      }
+    ],
+    "stats": [
+      {
+        "value": "+2 400",
+        "label": "clientes satisfaites"
+      },
+      {
+        "value": "150+",
+        "label": "Références disponibles"
+      },
+      {
+        "value": "- 24h",
+        "label": "Livraison à Bamako"
+      }
+    ],
+    "floatingCard": {
+      "badge": "Nouveauté",
+      "title": "Collection Bogolan",
+      "price": "À partir de 20.000F"
+    },
+    "decorativeBadge": "Maria • Shop • 100% •"
+  },
+  "marquee": [
+    "Vêtements uniques",
+    "Livraison 48h",
+    "Cosmétiques naturels",
+    "Style africain",
+    "Paiement sécurisé",
+    "Accessoires bogolan"
+  ],
+  "story": {
+    "badgeText": "Notre histoire",
+    "titleLine1": "La beauté à l'africaine,",
+    "titleLine2": "une fierté à partager",
+    "description": "Maria Shop, une entreprise créée en 2018 avec une vision simple : faire rayonner le patrimoine malien partout dans le monde. Passionnée par la culture, l'artisanat et la mode, j'ai choisi de mettre mon savoir-faire et ma créativité au service de la valorisation des tissus artisanaux (Bogolan, Indigo) et accessoires traditionnels. À travers Maria Shop, je cherche à donner une nouvelle dimension à notre patrimoine en proposant des créations modernes, élégantes et adaptées aux besoins d'aujourd'hui.\n\nEnsemble, valorisons notre culture.",
+    "founderName": "Mariam Dembélé",
+    "founderRole": "Fondatrice Maria shop",
+    "imageSrc": "/images/Maria-photo.png",
+    "perks": [
+      {
+        "icon": "HeartHandshake",
+        "title": "Fait avec amour",
+        "desc": "Sélection artisanale soignée"
+      }
+    ]
+  },
+  "categories": {
+    "items": [
+      {
+        "name": "Vêtements",
+        "desc": "Kimonos & Collections",
+        "icon": "Crown",
+        "href": "/vetements"
+      },
+      {
+        "name": "Accessoires",
+        "desc": "Bijoux & Turbans",
+        "icon": "ShoppingBag",
+        "href": "/accessoires"
+      },
+      {
+        "name": "Sacs",
+        "desc": "Sacs & Pochettes",
+        "icon": "Gem",
+        "href": "/sacs"
+      },
+      {
+        "name": "Boutique",
+        "desc": "Toutes nos pièces",
+        "icon": "Sparkles",
+        "href": "/boutique"
+      }
+    ]
+  },
+  "productsSection": {
+    "badge": "Nos articles",
+    "title": "Les pièces en vedette",
+    "filters": [
+      {
+        "label": "Accessoires",
+        "value": "accessoires"
+      },
+      {
+        "label": "Vêtements",
+        "value": "vetements"
+      },
+      {
+        "label": "Collections",
+        "value": "collections"
+      },
+      {
+        "label": "Tous",
+        "value": "all"
+      }
+    ]
+  },
+  "collectionsSection": {
+    "badge": "Nos collections",
+    "title": "Des univers pensés pour vous",
+    "items": [
+      {
+        "title": "Mode & Vêtements Bogolan",
+        "subtitle": "Châles, kimonos et boubous authentiques",
+        "image": "/images/whatsapp-image-2026-07-23-at-10-38-25-1787868635473.jpeg",
+        "span": "lg:col-span-7",
+        "href": "/accessoires"
+      },
+      {
+        "title": "Sacs & Pochettes",
+        "subtitle": "L'artisanat africain sublimé",
+        "image": "/images/de3e646-7929-4b50-b4db-61a3be44e2c8-1787868654822.PNG",
+        "span": "lg:col-span-5",
+        "href": "/sacs"
+      }
+    ]
+  },
+  "footer": {
+    "newsletter": {
+      "active": false,
+      "title": "-10% sur votre première commande",
+      "description": "Rejoignez la communauté Maria Shop et recevez nos nouveautés en avant-première."
+    },
+    "socials": {
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com",
+      "tiktok": "https://tiktok.com",
+      "snapchat": "https://snapchat.com",
+      "whatsapp": "https://wa.me/"
+    },
+    "description": "La beauté à l'africaine.",
+    "columns": [
+      {
+        "title": "Boutique",
+        "links": [
+          {
+            "label": "Boutique complète",
+            "href": "/boutique"
+          },
+          {
+            "label": "Accessoires",
+            "href": "/accessoires"
+          },
+          {
+            "label": "Sacs & Pochettes",
+            "href": "/sacs"
+          },
+          {
+            "label": "Vêtements",
+            "href": "/vetements"
+          }
+        ]
+      },
+      {
+        "title": "Aide",
+        "links": [
+          {
+            "label": "Livraison",
+            "href": "/#story"
+          },
+          {
+            "label": "Retours",
+            "href": "/#story"
+          },
+          {
+            "label": "Suivi de commande",
+            "href": "/#story"
+          },
+          {
+            "label": "Contact",
+            "href": "/#story"
+          },
+          {
+            "label": "FAQ",
+            "href": "/#story"
+          }
+        ]
+      },
+      {
+        "title": "Maria Shop",
+        "links": [
+          {
+            "label": "Notre histoire",
+            "href": "/#story"
+          },
+          {
+            "label": "Sacs & Maroquinerie",
+            "href": "/sacs"
+          },
+          {
+            "label": "Blog beauté",
+            "href": "/"
+          },
+          {
+            "label": "Programme fidélité",
+            "href": "/"
+          }
+        ]
+      }
+    ],
+    "copyright": "Maria Shop. Tous droits réservés.",
+    "bottomText": "Fait avec passion pour la beauté africaine."
+  },
+  "banners": {
+    "sacs": "/images/de3e646-7929-4b50-b4db-61a3be44e2c8-1787866661439.PNG",
+    "vetements": "/images/whatsapp-image-2025-12-01-at-08-55-42-1-1787866868126.jpeg",
+    "accessoires": "/images/04-18000fcfa-1787866913987.jpeg"
+  }
+}

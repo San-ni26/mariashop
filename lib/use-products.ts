@@ -30,6 +30,9 @@ export function useProducts() {
 
         async function fetchProducts() {
             try {
+                // Simulate loading time (e.g., 800ms) as requested
+                await new Promise(resolve => setTimeout(resolve, 800))
+                
                 const res = await fetch("/api/admin/products")
                 if (res.ok && !cancelled) {
                     const data = await res.json()

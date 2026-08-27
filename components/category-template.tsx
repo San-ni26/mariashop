@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { Search, SlidersHorizontal } from "lucide-react"
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
@@ -9,6 +9,7 @@ import { ProductGender } from "@/lib/products-data"
 import { useProducts } from "@/lib/use-products"
 import { Reveal } from "@/components/reveal"
 import { cn } from "@/lib/utils"
+import Image from "next/image"
 
 interface CategoryTemplateProps {
     categoryName: string
@@ -30,7 +31,23 @@ export function CategoryTemplate({
     const [sortBy, setSortBy] = useState("default")
     const [genderFilter, setGenderFilter] = useState<"all" | ProductGender>("all")
     const [visibleCount, setVisibleCount] = useState(12)
-    const { products } = useProducts()
+    const { products, loading } = useProducts()
+    const [bannerImage, setBannerImage] = useState<string | null>(null)
+
+    // Load banner image
+    useEffect(() => {
+        let mounted = true
+        fetch("/api/admin/home")
+            .then(res => res.json())
+            .then(data => {
+                if (mounted && data?.banners?.[filterValue]) {
+                    setBannerImage(data.banners[filterValue])
+                }
+            })
+            .catch(console.error)
+            
+        return () => { mounted = false }
+    }, [filterValue])
 
     // Filter products by category
     const categoryProducts = products.filter((p) => p.filter === filterValue)
@@ -66,10 +83,18 @@ export function CategoryTemplate({
 
             {/* Category Hero Header */}
             <section className="relative overflow-hidden bg-primary pt-24 pb-14 text-primary-foreground sm:pt-28 lg:pt-32 lg:pb-20">
-                <div className="pointer-events-none absolute -left-20 top-20 -z-10 size-72 rounded-full bg-accent/20 blur-3xl" />
-                <div className="pointer-events-none absolute -right-20 bottom-0 -z-10 size-80 rounded-full bg-terracotta/15 blur-3xl" />
+                {bannerImage && (
+                    <div className="absolute inset-0 z-0">
+                        <Image src={bannerImage} alt={categoryTitle} fill style={{ objectFit: "cover", objectPosition: "center" }} priority />
+                        <div className="absolute inset-0 bg-primary/80 backdrop-blur-[2px]" />
+                        <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent opacity-90" />
+                    </div>
+                )}
+                
+                <div className="pointer-events-none absolute -left-20 top-20 z-0 size-72 rounded-full bg-accent/20 blur-3xl" />
+                <div className="pointer-events-none absolute -right-20 bottom-0 z-0 size-80 rounded-full bg-terracotta/15 blur-3xl" />
 
-                <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+                <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-10">
                     <Reveal className="max-w-2xl">
                         <span className="text-xs font-semibold uppercase tracking-widest text-accent">
                             Boutique / {categoryName}
@@ -158,7 +183,19 @@ export function CategoryTemplate({
 
                 {/* Products Grid */}
                 <div className="mt-8">
-                    {sortedProducts.length === 0 ? (
+                    {loading ? (
+                        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+                            {Array.from({ length: 8 }).map((_, i) => (
+                                <div key={i} className="animate-pulse flex flex-col gap-4">
+                                    <div className="aspect-[4/5] w-full rounded-2xl bg-secondary/50" />
+                                    <div className="space-y-2">
+                                        <div className="h-4 w-3/4 rounded bg-secondary/50" />
+                                        <div className="h-4 w-1/2 rounded bg-secondary/50" />
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+                    ) : sortedProducts.length === 0 ? (
                         <div className="flex flex-col items-center justify-center py-20 text-center">
                             <p className="font-serif text-xl font-semibold">Aucun article trouvé</p>
                             <p className="mt-1 text-sm text-muted-foreground">

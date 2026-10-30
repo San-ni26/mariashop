@@ -6,24 +6,40 @@ import { ArrowRight, Sparkles, Star, ChevronLeft, ChevronRight } from "lucide-re
 
 const HERO_SLIDES = [
     {
-        src: "/images/02.jpeg",
-        alt: "Femme africaine élégante mettant en valeur une perruque Maria Shop",
+        src: "/images/article5-2.jpg",
+        alt: "Collection Article 5 - Maria Shop élégance africaine",
     },
     {
-        src: "/images/01.jpeg",
-        alt: "Création raffinée et élégance africaine",
+        src: "/images/article5-3.jpg",
+        alt: "Collection Article 5 - Style et raffinement bogolan",
     },
     {
-        src: "/images/hero-model.png",
-        alt: "Collection textile et style africain Maria Shop",
+        src: "/images/article5-4.jpg",
+        alt: "Collection Article 5 - Beauté africaine Maria Shop",
     },
     {
-        src: "/images/crop-top-en-bogolan-authentique-prix10000f-1.jpeg",
-        alt: "Crop top en bogolan authentique",
+        src: "/images/article5-5.jpg",
+        alt: "Collection Article 5 - Pièce d'exception bogolan",
     },
     {
-        src: "/images/image-ensemble-chale-echarpe-prix-20000-1.jpeg",
-        alt: "Ensemble châle et écharpe Maria Shop",
+        src: "/images/article5-6.jpg",
+        alt: "Collection Article 5 - Élégance et authenticité",
+    },
+    {
+        src: "/images/article5-7.jpg",
+        alt: "Collection Article 5 - Mode africaine contemporaine",
+    },
+    {
+        src: "/images/article5-8.jpg",
+        alt: "Collection Article 5 - Création Maria Shop",
+    },
+    {
+        src: "/images/article5-9.jpg",
+        alt: "Collection Article 5 - Maria Shop nouveauté",
+    },
+    {
+        src: "/images/article5-10.jpg",
+        alt: "Collection Article 5 - Maria Shop collection exclusive",
     },
 ]
 
